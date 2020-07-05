@@ -1,1 +1,1 @@
-web:gunicorn real-estate-wakamol.app:app
+web:gunicorn app:app
